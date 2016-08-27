@@ -1,7 +1,7 @@
 # Interface Programming II
 - **Course:** ART 258 | Kapiolani Community College, New Media Arts
-- **Class:** KOPIKO 202 103 M/W: 4:30pm–7pm
-- **Office Hours by Apptointment:** M: 7pm-8pm. Ask for additional accommodations.
+- **Class:** KOA 103 T/TH: 4:30pm–7pm
+- **Office Hours by Appointment:** T: 7pm-8pm. Ask for additional accommodations.
 - **Instructor:** Charles (Ka‘a) Kihe, [ckihe@hawaii.edu](mailto: ckihe@hawaii.edu)
 
 **Table of Contents**

@@ -14,8 +14,6 @@
 - [Course Content](#course-content)
 - [Texts](#texts)
 - [Materials](#materials)
-- [Method of Instruction](#method-of-instruction)
-- [Method of Evaluation](#method-of-evaluation)
 - [Instructor’s Expectations & Student Responsibilities](#instructor%E2%80%99s-expectations-&-student-responsibilities)
 - [Instructor’s Absence](#instructor%E2%80%99s-absence)
 - [Attendance](#attendance)
@@ -26,11 +24,13 @@
 - [Student Conduct Code](#student-conduct-code)
 - [This Class is a “Safe Zone”](#this-class-is-a-%E2%80%9Csafe-zone%E2%80%9D)
 - [Schedule](#schedule)
-  - [Warmup Project](#midterm-project)
-  - [Midterm Project](#midterm-project)
-  - [Final Project](#final-project)
+  - [Project #1](#project-1)
+  - [Project #2](#project-2)
+  - [Project #3](#project-3)
+  - [Project #4](#project-4)
   - [Schedule](#schedule-1)
     - [Week 1: Intro to Course & Tools](#week-1-intro-to-course-&-tools)
+  - [Week 2](#week-2)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -57,19 +57,18 @@ TBD
 TBD
 
 ## Texts
+
 There are no required texts for this course. Readings will be supplied by the instructor and/or student(s) on a week to week basis online.
 
 ## Materials
 
-TBD
+All required materials will consist of the following software:
 
-## Method of Instruction
-
-TBD
-
-## Method of Evaluation
-
-TBD
+- [GitHub](https://github.com) - an online service that will allow us to store our code and projects online.
+- [GitHub for Mac or Windows](https://desktop.github.com) - software that helps us to easily interact with your code and GitHub.
+- [Codepen](https://codepen.io) - edit code snippets online for demo purposes.
+- [Atom](https://atom.io) - the text editor we'll be using for this class.
+- [Node.js](https://nodejs.org/en/) - software that runs JavaScript programs on your computer. This will be used to run our code.
 
 ## Instructor’s Expectations & Student Responsibilities
 Lectures, demonstrations and general class participation are an important aspect of this course. For all instructional activities, students are responsible for meeting all of the instructor’s attendance and assignment requirements. Failure to do so may affect their final grade. For unexcused absences, students need to make arrangements with other class members regarding information. Since this is a college course, time outside of class will need to be consistently spent on projects to meet the requirements of the class.
@@ -93,11 +92,14 @@ Note: Any student missing the final semester critique or not turning in a final 
 Please visit the [KCC Academic Calendar](http://www.kapiolani.hawaii.edu/admissions/academic-calendar/) for more information.
 
 ## Grading System
-There are three projects during this semester:
+Your final grade will be based on four projects:
 
-- **Warm-up Project** (200 pts) - This project will review concepts and allow you to flex your coding muscles and solve various design challenges.
-- **Mid-term Project** (300 pts) - Use what you've learned in architecting your project with modularization, advanced CSS skills, and more.
-- **Final Project** (500 pts) - Put your skills to the test by implementing a project that you've fully designed.
+- **Project 1** (150 pts) - This project will review concepts and allow you to flex your coding muscles and solve various design challenges.
+- **Project 2** (250 pts) - Use what you've learned in architecting your project with modularization, advanced CSS skills, and more.
+- **Project 3** (150 pts) - This project will review concepts and allow you to flex your coding muscles and solve various design challenges.
+- **Project 4** (250 pts) - Put your skills to the test by implementing a project that you've fully designed.
+
+In addition, Class Participation in critiques, warm-up excercises, and inspiration will account for an additional 200 points.
 
 Your final grade will be determined by the total points accrued from the assignments stated above:
 
@@ -124,15 +126,19 @@ Discriminatory or rude comments of any kind, particularly regarding gender, ethn
 
 
 ## Schedule
-### Warm-up Project
+### Project #1
 
 TBD
 
-### Midterm Project
+### Project #2
 
 TBD
 
-### Final Project
+### Project #3
+
+TBD
+
+### Project #4
 
 TBD
 
@@ -142,6 +148,15 @@ TBD
 
 - Introduction to course
 - Introduction to new development tools & concepts
+
+### Week 2
+
+- Begin reviews and crtiques of site instpiration.
+- Deeper overview of Codepen.
+- Layout challenge in Codepen.
+- HTML Fundamentals: expand on core layout concepts, creating documents, classes, IDs.
+- CSS Fundamentals: expand on core CSS rule concepts, classes, and IDs.
+- Overview of Atom: this is the text editor we'll be using in class.
 
 ## License
 [![License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)

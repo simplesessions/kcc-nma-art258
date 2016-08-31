@@ -48,13 +48,17 @@ ART 258 Interface Programming II builds upon the foundation level HTML, CSS, and
 
 Through lessons, demonstrations, and hands-on-exercise, this course aims to develop intermediate skills in contemporary interface programming practices. Weekly topics will address emerging and popular interface programming techniques and technologies.
 
+## Important Dates
+
+- __Nov 1, Nov 3__ - Remote Instruction/Studio Time
+- __Dec 9 - 15__ - Last day of Semester
+- __Fri, Dec 16__ - Last day of Semester
+
+See more dates at the [Kapi‘olani Community College Academic Calendar](https://www.kapiolani.hawaii.edu/admissions/academic-calendar/).
+
 ## Course Objectives
 
-TBD
-
-## Course Content
-
-TBD
+Build on the previous concepts learned in ART 128 to enhance knowledge and application of HTML, JS, and CSS. We will explore topics such as Sass, modular architecture, and media queries for responsive design.
 
 ## Texts
 
@@ -99,7 +103,7 @@ Your final grade will be based on four projects:
 - **Project 3** (150 pts) - This project will review concepts and allow you to flex your coding muscles and solve various design challenges.
 - **Project 4** (250 pts) - Put your skills to the test by implementing a project that you've fully designed.
 
-In addition, Class Participation in critiques, warm-up excercises, and inspiration will account for an additional 200 points.
+In addition, Class Participation in critiques, warm-up excercises, and inspiration will account for an additional (200 points).
 
 Your final grade will be determined by the total points accrued from the assignments stated above:
 

@@ -18,21 +18,21 @@
 
 ### Terminology
 
-- __viewport__ - the part of your browser in which your website is rendered. [What Is a Viewport? at MSDN](https://msdn.microsoft.com/en-us/library/ff634571.aspx)
+- __viewport__ - the part of your browser in which your website is rendered. [What Is a Viewport? @ MSDN](https://msdn.microsoft.com/en-us/library/ff634571.aspx)
 
-- __pseudo-classes/pseudo-selectors/pseudo-elements__ - an addendum to a CSS selector that allows the selection of an additional state of said selector. [Pseudo-classes at MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+- __pseudo-classes/pseudo-selectors/pseudo-elements__ - an addendum to a CSS selector that allows the selection of an additional state of said selector. [Pseudo-classes @ MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 
-- __flexbox__ - a recent layout technology that allows elements to flex or stretch to various parts of your layout. [A Complete Guide to Flexbox at CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- __flexbox__ - a recent layout technology that allows elements to flex or stretch to various parts of your layout. [A Complete Guide to Flexbox @ CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 --
 
 ### Other Useful Links
 
 - Basic HTML
-	- [HTML Basics at MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+	- [HTML Basics @ MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - Specificity
-	-  [Specificity at MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
-	- [Specifics on Specificity at CSS-Tricks](https://css-tricks.com/specifics-on-css-specificity/)
+	-  [Specificity @ MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
+	- [Specifics on Specificity @ CSS-Tricks](https://css-tricks.com/specifics-on-css-specificity/)
 
 --
 
@@ -40,9 +40,7 @@
 
 - [Codepen: Laying Out Containers](http://codepen.io/simplesessions/pen/amoYNV)
 
---
-
-### Suggested Exercises
+#### Suggested Exercises
 
 - [Fork the Codepen example](https://blog.codepen.io/documentation/features/forks/) above an experiment with different ways to change up the layout:
 	- What happens when you add more than one article?

@@ -51,7 +51,7 @@ Through lessons, demonstrations, and hands-on-exercise, this course aims to deve
 ## Important Dates
 
 - __Nov 1, Nov 3__ - Remote Instruction/Studio Time
-- __Dec 9 - 15__ - Last day of Semester
+- __Dec 9 - 15__ - Finals Period
 - __Fri, Dec 16__ - Last day of Semester
 
 See more dates at the [Kapi‘olani Community College Academic Calendar](https://www.kapiolani.hawaii.edu/admissions/academic-calendar/).

@@ -132,7 +132,7 @@ Discriminatory or rude comments of any kind, particularly regarding gender, ethn
 ## Schedule
 ### Project #1
 
-TBD
+To be Posted Friday, September 2nd
 
 ### Project #2
 

@@ -4,6 +4,20 @@
 - **Office Hours by Appointment:** T: 7pm-8pm. Ask for additional accommodations.
 - **Instructor:** Charles (Ka‘a) Kihe, [ckihe@hawaii.edu](mailto: ckihe@hawaii.edu)
 
+### Other Class Links
+
+- **KCC NMA ART258 Projects:** This holds all the information for the projects you'll be turning in on this site.
+- **KCC NMA ART258 Starter:** You'll use this project as the starting point for the rest of your projects.
+
+#### Using the Starter Project
+
+- Fork the [starter repo project](https://github.com/simplesessions/kcc-nma-art258-starter) on github.com (not your desktop GitHub client).
+- Rename the project "kcc-nma-art258-project-X" where X is the number of the project.
+- After forking the project, make sure you're in the "plain" branch until we're used to using Gulp.
+- Open up the GitHub Desktop Client and clone your repository.
+- __IMPORTANT!!!__ Create a new branch from the project called "gh-pages". ([more on Creating Branches in GitHub Desktop](https://help.github.com/desktop/guides/contributing/creating-a-branch-for-your-work/))
+- Go ahead and start working.
+
 **Table of Contents**
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

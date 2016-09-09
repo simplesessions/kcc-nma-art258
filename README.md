@@ -6,8 +6,8 @@
 
 ### Other Class Links
 
-- **KCC NMA ART258 Projects:** This holds all the information for the projects you'll be turning in on this site.
-- **KCC NMA ART258 Starter:** You'll use this project as the starting point for the rest of your projects.
+- **[KCC NMA ART258 Projects](https://github.com/simplesessions/kcc-nma-art258-projects):** This holds all the information for the projects you'll be turning in on this site.
+- **[KCC NMA ART258 Starter](https://github.com/simplesessions/kcc-nma-art258-starter):** You'll use this project as the starting point for the rest of your projects.
 
 #### Using the Starter Project
 

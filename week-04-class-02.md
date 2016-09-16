@@ -36,7 +36,7 @@ Since we'll be using Node.js in this class, which is a program that will be high
     echo "prefix = ~/.npm-global" >> ~/.npmrc
     mkdir -p ~/.npm-global/bin
     touch .profile
-    echo "export PATH=$PATH:$HOME/.npm-global/bin" >> .profile
+    echo "export PATH=$PATH:$HOME/.npm-global/bin" >> ~/.profile
     source ~/.profile
     
 

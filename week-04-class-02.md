@@ -33,11 +33,12 @@ Since we'll be using Node.js in this class, which is a program that will be high
 
   - ```
     touch ~/.npmrc
-    echo "set prefix ~/.npm-global" >> ~/.npmrc
+    echo "prefix = ~/.npm-global" >> ~/.npmrc
     mkdir -p ~/.npm-global/bin
-    touch .bashrc
+    touch .profile
     echo "export PATH=$PATH:$HOME/.npm-global/bin"
-    source ~/.bashrc
+    source ~/.profile
+    
 
 #### Commands
 

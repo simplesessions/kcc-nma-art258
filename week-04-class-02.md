@@ -90,28 +90,33 @@ You'll often see these programs and plugins refered by the following names: pack
 
 ### Syntax
 
-`__npm install__`
+#### `npm install`
 
 Running `npm install` by itself will attempt to find a file within the directory in which its run called `package.json`, which usually has a list of _dependencies_ that npm will start to install. _dependencies_ are pieces of software that your website depends on to function as intended. Because `package.json` keeps track of this list of _dependencies_, you'll have an easier time referencing all the software needed for your site to run. More importantly, `npm` will reference this list every time when figuring out what to install.
 
-`__npm install [package-name] --save__`
+#### `npm install [package-name] --save`
 
-Run this command to install a new package, or piece of software, to be used when creating your site, where `__[package-name]__` is the name of the package you're installing. E.g. `npm install slick.js --save`.
+Run this command to install a new package, or piece of software, to be used when creating your site, where __`[package-name]`__ is the name of the package you're installing. E.g. `npm install slick.js --save`.
 
 The `--save` flag tells npm to add your piece of software to the list of dependencies in the `package.json` file. That way, when you decide to work on your project somewhere else, then running `npm install` will include this new package you've installed in the list of software it installs.
 
-### Note: the node_modules folder
+### Note: the `node_modules` folder
 
 When you install node modules with npm, they are installed to the present working directory (the one in which you're running the command). The packages and modules that npm installs are installed to a directory called _node_modules_. It's important to note that we will never check this folder in to Git. That said, don't worry when you check in your project and you don't see the node_modules folder. For this class, I've included a file called `.gitignore` in your projectso that will tell GitHub to not commit this folder.
 
-It's a bad idea to commit this folder for two reasons:
+It's a bad idea to commit this folder for a few reasons:
 
-- It's huge.
-        - Whenever you install packages, each package usually has a set of dependencies, and those can have dependencies, and so forth. And so, as a lot of dependencies are installed, they tend to take up way more space than needed for your _actual_ working files.
-- Assume that the files in node_modules are off limits.
-        - Even though you've downloaded all these packages with npm, the point is that they're there for you to use with your projects, but _never_ change of the files in this folder yourself becuase the authors of these packages have made them in such a way that they will perform the same for everyone that uses them. We'll review more about this concept in class.
-- npm will always recereate this folder for you
-        - When you go home and clone your project, then run `npm install`, npm will use `package.json` to recreate this folder for you anyway. That's less for you to keep track of.
+#### It's huge.
+        
+Whenever you install packages, each package usually has a set of dependencies, and those can have dependencies, and so forth. And so, as a lot of dependencies are installed, they tend to take up way more space than needed for your _actual_ working files.
+
+#### Assume that the files in node_modules are off limits.
+
+Even though you've downloaded all these packages with npm, the point is that they're there for you to use with your projects, but _never_ change of the files in this folder yourself becuase the authors of these packages have made them in such a way that they will perform the same for everyone that uses them. We'll review more about this concept in class.
+
+#### npm will always recereate this folder for you
+
+When you go home and clone your project, then run `npm install`, npm will use `package.json` to recreate this folder for you anyway. That's less for you to keep track of.
 
 ## Gulp
 

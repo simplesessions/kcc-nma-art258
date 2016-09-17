@@ -90,7 +90,7 @@ You'll often see these programs and plugins refered by the following names: pack
 
 ### Syntax
 
-`__npm install__
+`__npm install__`
 
 Running `npm install` by itself will attempt to find a file within the directory in which its run called `package.json`, which usually has a list of _dependencies_ that npm will start to install. _dependencies_ are pieces of software that your website depends on to function as intended. Because `package.json` keeps track of this list of _dependencies_, you'll have an easier time referencing all the software needed for your site to run. More importantly, `npm` will reference this list every time when figuring out what to install.
 

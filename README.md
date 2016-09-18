@@ -37,14 +37,6 @@
 - [Special Student Services (SSSO)](#special-student-services-ssso)
 - [Student Conduct Code](#student-conduct-code)
 - [This Class is a “Safe Zone”](#this-class-is-a-%E2%80%9Csafe-zone%E2%80%9D)
-- [Schedule](#schedule)
-  - [Project #1](#project-1)
-  - [Project #2](#project-2)
-  - [Project #3](#project-3)
-  - [Project #4](#project-4)
-  - [Schedule](#schedule-1)
-    - [Week 1: Intro to Course & Tools](#week-1-intro-to-course-&-tools)
-  - [Week 2](#week-2)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -141,40 +133,6 @@ The instructor reserves the right to ask a student to leave the classroom at any
 
 ## This Class is a “Safe Zone”
 Discriminatory or rude comments of any kind, particularly regarding gender, ethnicity, sexual orientation, or religion, will not be tolerated.
-
-
-## Schedule
-### Project #1
-
-To be Posted Friday, September 2nd
-
-### Project #2
-
-TBD
-
-### Project #3
-
-TBD
-
-### Project #4
-
-TBD
-
-### Schedule
-
-#### Week 1: Intro to Course & Tools
-
-- Introduction to course
-- Introduction to new development tools & concepts
-
-### Week 2
-
-- Begin reviews and crtiques of site instpiration.
-- Deeper overview of Codepen.
-- Layout challenge in Codepen.
-- HTML Fundamentals: expand on core layout concepts, creating documents, classes, IDs.
-- CSS Fundamentals: expand on core CSS rule concepts, classes, and IDs.
-- Overview of Atom: this is the text editor we'll be using in class.
 
 ## License
 [![License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)

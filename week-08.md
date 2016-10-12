@@ -15,6 +15,11 @@ You'll find images that you can use in the assets folder.
 - Utilize Google Fonts to find a font similar to the one in the wireframes
 - Make use of Sass variables for any color, or dimension used within your code
 
+### Other Notes
+
+- Please disregard the number in the upper-right corner that was placed on the shopping bag
+- In the mobile footer, there is a bar on the bottom mentioning a certain business. Please completely ignore that bar.
+
 ### Turning This In
 
 - This is due next Tuesday, October 18th. Just zip the _src_ folder up and sent it to my email. Remember, JUST the _src_ folder.

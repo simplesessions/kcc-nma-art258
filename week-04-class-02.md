@@ -38,6 +38,7 @@ Since we'll be using Node.js in this class, which is a program that will be high
     touch .profile
     echo "export PATH=$PATH:$HOME/.npm-global/bin" >> ~/.profile
     source ~/.profile
+    npm install gulp -g
     
 
 #### Commands
